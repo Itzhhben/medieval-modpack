@@ -1,0 +1,163 @@
+{
+  "pack_name": "medieval-modpack",
+  "pack_version": "1.0.0",
+  "base_url": "https://raw.githubusercontent.com/Itzhhben/medieval-modpack/main",
+  "files": [
+    {
+      "path": "mods/abridged-2.0.0-forge-1.20.1.jar",
+      "sha256": "d64f9c5d70aa808771770cc7b7f4490f225e646db3c81ae0080cbc6b4a5429af"
+    },
+    {
+      "path": "mods/AI-Improvements-1.20-0.5.2.jar",
+      "sha256": "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.8.jar",
+      "sha256": "af685728fc31adca6a559c0155420c8608a9af382db242bc45bef1b37b8241ce"
+    },
+    {
+      "path": "mods/Atlas Lib-1.20.1-1.1.12.jar",
+      "sha256": "8cc9b5b46e65affed0c38aa54da6870ec4e820364c654c4dd2bb70a94ba39c50"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.38-all.jar",
+      "sha256": "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08"
+    },
+    {
+      "path": "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+      "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1"
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "sha256": "c587b49931e62f89c2673936a5e7269c6daabb713dbcc30813cb0f76da37e01d"
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha256": "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368"
+    },
+    {
+      "path": "mods/citadel-2.5.7-1.20.1.jar",
+      "sha256": "fe59ffbdf497874405b8ea519877a4e842bb1462108b06e7cabd187583729ea6"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+    },
+    {
+      "path": "mods/comforts-forge-6.4.0+1.20.1.jar",
+      "sha256": "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+    },
+    {
+      "path": "mods/dungeons_and_combat-1.2.0-forge-1.20.1.jar",
+      "sha256": "1b1cf3902f6c07817a93fb34d8f4b4b92e983fc0f957cce62073bcfac5557473"
+    },
+    {
+      "path": "mods/DynamicTrees-1.20.1-1.4.9.jar",
+      "sha256": "6f61bc838fd0f1a95ddbfe4408885d0e186bb2433a12ce89e7978b6d570ef631"
+    },
+    {
+      "path": "mods/DynamicTreesPHC2-1.20.1-1.3.2.jar",
+      "sha256": "08858d3ad6e8cb5012442b06a05deda0f3a8844af380554eca5d76d94ae67039"
+    },
+    {
+      "path": "mods/entityculling-forge-1.9.5-mc1.20.1.jar",
+      "sha256": "8f80f3953fc988d8c6b4a88035441cad631fea87a413267526b64543890c02b0"
+    },
+    {
+      "path": "mods/FastSuite-1.20.1-5.1.2.jar",
+      "sha256": "5e05cb3ce05785a0061a41b7a83443074a6c26dd7d9db75c453fa2487481d54e"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+    },
+    {
+      "path": "mods/fieldguide-forge-1.20.1-1.2.0.jar",
+      "sha256": "eabd073f68d8cf2555a67b68a4e569c79d295877827fe5a57727d283b250f1a0"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250"
+    },
+    {
+      "path": "mods/iceandfire-2.1.13-1.20.1-beta-4.jar",
+      "sha256": "07b68553d7eeaa4e6e3956a8bfa3709990e7412c31948a8862e567aa66f5f6dd"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "sha256": "2d3a86f503dbde51afa5142951525c37e227016ce8d9e7dfd10bbdd9233f0204"
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+    },
+    {
+      "path": "mods/lithostitched-forge-1.20.1-1.4.11.jar",
+      "sha256": "c19a5a36c0e6cb3782cf7ca5b9648fb1bce5fc41fd737bed423a1f4971bccf75"
+    },
+    {
+      "path": "mods/OptiFine_1.20.1_HD_U_I6.jar",
+      "sha256": "0b67cb670aedf2e55a982f3d52b6d53e46791a0c984aa1d2ee58100fc9bfc650"
+    },
+    {
+      "path": "mods/pamhc2trees-1.20-1.0.2.jar",
+      "sha256": "69e0c722c786b78aea299e7faf27991e6533a671a66f281fb5ced279eb31b0dd"
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.3.jar",
+      "sha256": "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+    },
+    {
+      "path": "mods/punchy-2.4.1-forge-1.20.1.jar",
+      "sha256": "ea32bc70c4ccc2d9a1d02db41d7a6c8a437ada347f8a19a54697a165dc1062fd"
+    },
+    {
+      "path": "mods/ruok-forge_1.20.1-1.7.2.jar",
+      "sha256": "cc0592210c4b9fbb5881e8d0e0a515d57a7faa28278e45785b3bdacc0be8fbea"
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.24.17.1481.jar",
+      "sha256": "05ae649003058da96fcc2f1e9eec0504f3749cf2dd7881afc5cbadce19abbe7e"
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.3.6.1514.jar",
+      "sha256": "7825b2147d31f801b9e657b81eb059625e7d5da6850107e65a6908a8f206d4f8"
+    },
+    {
+      "path": "mods/starlight-1.1.2+forge.1cda73c.jar",
+      "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+    },
+    {
+      "path": "mods/Structory_1.20.x_v1.3.5.jar",
+      "sha256": "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+      "sha256": "8f00e766f5a75aa52809cf9825817e874ac4b21b5d3f52fb02d40a19ec0b759b"
+    },
+    {
+      "path": "mods/tombstone-1.20.1-9.0.9.jar",
+      "sha256": "a335131063ae7231c21d902d77f1e43c018807b6a02c733daa4b9a479a32906e"
+    },
+    {
+      "path": "mods/valarian_conquest-1.2.0.jar",
+      "sha256": "0a737fd55cee3bb48c066e9aad98cd891dcfadfd39dd935332259a68cc94d0a9"
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.20.jar",
+      "sha256": "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd"
+    },
+    {
+      "path": "mods/xaerominimap-forge-1.20.1-25.3.10.jar",
+      "sha256": "dd118045c4daa8e27614f576d515ba5b07e4ccae060b6b1a536437f155879c7b"
+    }
+  ]
+}
